@@ -1,0 +1,137 @@
+{
+  "webUsers": [
+    {
+      "id": 1,
+      "firstName": "Hakan",
+      "lastName": "Cetinkaya",
+      "phoneNumber": "0530-326-05-20",
+      "email": "hakan@hakan.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Elif",
+      "lastName": "Cetinkaya",
+      "phoneNumber": "0530-123-20-20",
+      "email": "elif@hakan.com"
+    },
+    {
+      "id": 3,
+      "firstName": "Hülya",
+      "lastName": "Cetinkaya",
+      "phoneNumber": "0530-321-22-25",
+      "email": "hulya@hakan.com"
+    },
+    {
+      "id": 4,
+      "firstName": "Tarik",
+      "lastName": "Cetinkaya",
+      "phoneNumber": "0533-453-25-25",
+      "email": "tarik@hakan.com"
+    },
+    {
+      "id": 5,
+      "firstName": "Nuriye",
+      "lastName": "Cetinkaya",
+      "phoneNumber": "0535-243-11-22",
+      "email": "nuriye@hakan.com"
+    },
+    {
+      "id": 6,
+      "firstName": "Ramadan",
+      "lastName": "Cetinkaya",
+      "phoneNumber": "0533-673-78-27",
+      "email": "ramadan@hakan.com"
+    }
+  ],
+  "activityAreas": [
+    {
+      "id": 1,
+      "name": "Güneş Enerji Sistemleri",
+      "image": "/Users/hakancetinkaya/AndroidStudioProjects/website/assets/images/ges-2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "İnşaat & Taahhüt",
+      "image": "/Users/hakancetinkaya/AndroidStudioProjects/website/assets/images/insaat.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Yazılım Projesi",
+      "image": "/Users/hakancetinkaya/AndroidStudioProjects/website/assets/images/yazilim.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Yangın Projesi",
+      "image": "/Users/hakancetinkaya/AndroidStudioProjects/website/assets/images/yangin.png"
+    },
+    {
+      "id": 5,
+      "name": "Elektrik Projesi",
+      "image": "/Users/hakancetinkaya/AndroidStudioProjects/website/assets/images/elektrik.jpeg"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "activityAreaId": 1,
+      "name": "GES Projesi",
+      "image": "/Users/hakancetinkaya/AndroidStudioProjects/website/assets/images/ges-2.jpg"
+    },
+    {
+      "id": 2,
+      "activityAreaId": 2,
+      "name": "İnşaat Projesi",
+      "image": "/Users/hakancetinkaya/AndroidStudioProjects/website/assets/images/insaat.jpeg"
+    },
+    {
+      "id": 3,
+      "activityAreaId": 3,
+      "name": "Yazılım Projesi",
+      "image": "/Users/hakancetinkaya/AndroidStudioProjects/website/assets/images/yazilim.jpeg"
+    },
+    {
+      "id": 4,
+      "activityAreaId": 4,
+      "name": "Yangın Projesi",
+      "image": "/Users/hakancetinkaya/AndroidStudioProjects/website/assets/images/yangin.png"
+    },
+    {
+      "id": 5,
+      "activityAreaId": 5,
+      "name": "Elektrik Projesi",
+      "image": "/Users/hakancetinkaya/AndroidStudioProjects/website/assets/images/elektrik.jpeg"
+    }
+  ],
+  "references": [
+    {
+      "id": 1,
+      "projectId": 1,
+      "name": "GES Reference",
+      "image": "/Users/hakancetinkaya/AndroidStudioProjects/website/assets/images/ges-2.jpg"
+    },
+    {
+      "id": 2,
+      "projectId": 2,
+      "name": "İnşaat & Taahhüt Reference",
+      "image": "/Users/hakancetinkaya/AndroidStudioProjects/website/assets/images/insaat.jpeg"
+    },
+    {
+      "id": 3,
+      "projectId": 3,
+      "name": "Yazılım Projesi Reference",
+      "image": "/Users/hakancetinkaya/AndroidStudioProjects/website/assets/images/yazilim.jpeg"
+    },
+    {
+      "id": 4,
+      "projectId": 4,
+      "name": "Yangın Projesi Reference",
+      "image": "/Users/hakancetinkaya/AndroidStudioProjects/website/assets/images/yangin.png"
+    },
+    {
+      "id": 5,
+      "projectId": 5,
+      "name": "Elektrik Projesi Reference",
+      "image": "/Users/hakancetinkaya/AndroidStudioProjects/website/assets/images/elektrik.jpeg"
+    }
+  ]
+}
